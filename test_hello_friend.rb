@@ -7,6 +7,7 @@ class TestFriend < MiniTest::Test
   # We can set up variables that we reuse here
   def setup
     @friend = Friend.new
+    
   end
 
   # greet
